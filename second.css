@@ -1,0 +1,87 @@
+html{
+    background-color:white;
+}
+
+
+h1 {
+    display: flex;
+    font-size: 60px;
+    font-weight: lighter;
+    padding-top: 5px;
+    color:black;
+    
+    
+    }
+hr {
+    
+        border-width: 2px;
+      }
+    
+.container{
+    width: 1140px;
+    height: 70vh;
+    padding: 50px 0;
+    margin: 0 auto;   
+      
+ }
+
+ .gallery-wrap {
+    display: flex;
+    flex-direction: row;
+    height: 70vh;
+  }
+  
+.item {
+    flex: 1;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: none;
+    transition: flex 0.9s ease;}
+    
+.item:hover{
+    flex:4;
+    background-color: white;
+    }
+  
+  
+.item-1 { 
+    background-image:url(IMG_6670.JPG);
+  }
+  
+.item-2 { 
+    background-image: url(IMG_6674.JPG);
+  }
+  
+.item-3 { 
+    background-image: url(IMG_6678.JPG);
+  }
+  
+.item-4 { 
+    background-image: url(IMG_6673.JPG);
+  }
+  
+.item-5 { 
+    background-image: url(IMG_6675.JPG);
+  }
+  
+.intro{
+    color:black;
+    text-align: justify;
+    width: 80%;
+}
+.content{
+    font-weight: bold;
+
+
+}
+
+
+
+footer {
+    padding: 1rem 0;
+    color:gray;
+    text-align:center;
+  }
+  
+
