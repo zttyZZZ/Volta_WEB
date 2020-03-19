@@ -1,25 +1,25 @@
 # Volta_WEB
  
-#Internet Art - The Materiality of the Web
+# Internet Art - The Materiality of the Web
 
-#Deployment URL
+# Deployment URL
 https://zttyzzz-volta-web.glitch.me/main.html
 ​
-#GitHub URL
+# GitHub URL
 https://github.com/zttyZZZ/Volta_WEB
 ​
-#ABOUT
+# ABOUT
 Inspired by my trip to the Volta Art Fair. I am interested in redesigning the main page of the event.
 ​
-#BUILT WITH
+# BUILT WITH
 It developed by HTML, CSS and some media art assets.
 ​
-#AUTHOR
+# AUTHOR
 Tingyu Zhang
 ​
-#NOTES
+# NOTES
 The navigation always contains at the top. Pay attention to the scale and balance of the page.
 ​
-#REFERENCES
+# REFERENCES
 All the pictures were took by myself.
 The text were got from the official website.
